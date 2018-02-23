@@ -1,1 +1,1 @@
-This is LDLC.fr web crawler test.
+This is LDLC.fr web crawler test
